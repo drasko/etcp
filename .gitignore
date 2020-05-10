@@ -1,3 +1,6 @@
 *.plt
 erlang.mk
 .erlang.mk
+_rel
+ebin
+*.d
